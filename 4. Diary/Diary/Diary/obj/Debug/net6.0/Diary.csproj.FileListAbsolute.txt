@@ -1,0 +1,15 @@
+C:\Users\Зах\Desktop\C# Project\4. Practic\Diary\Diary\bin\Debug\net6.0\Diary.exe
+C:\Users\Зах\Desktop\C# Project\4. Practic\Diary\Diary\bin\Debug\net6.0\Diary.deps.json
+C:\Users\Зах\Desktop\C# Project\4. Practic\Diary\Diary\bin\Debug\net6.0\Diary.runtimeconfig.json
+C:\Users\Зах\Desktop\C# Project\4. Practic\Diary\Diary\bin\Debug\net6.0\Diary.dll
+C:\Users\Зах\Desktop\C# Project\4. Practic\Diary\Diary\bin\Debug\net6.0\Diary.pdb
+C:\Users\Зах\Desktop\C# Project\4. Practic\Diary\Diary\obj\Debug\net6.0\Diary.csproj.AssemblyReference.cache
+C:\Users\Зах\Desktop\C# Project\4. Practic\Diary\Diary\obj\Debug\net6.0\Diary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Зах\Desktop\C# Project\4. Practic\Diary\Diary\obj\Debug\net6.0\Diary.AssemblyInfoInputs.cache
+C:\Users\Зах\Desktop\C# Project\4. Practic\Diary\Diary\obj\Debug\net6.0\Diary.AssemblyInfo.cs
+C:\Users\Зах\Desktop\C# Project\4. Practic\Diary\Diary\obj\Debug\net6.0\Diary.csproj.CoreCompileInputs.cache
+C:\Users\Зах\Desktop\C# Project\4. Practic\Diary\Diary\obj\Debug\net6.0\Diary.dll
+C:\Users\Зах\Desktop\C# Project\4. Practic\Diary\Diary\obj\Debug\net6.0\refint\Diary.dll
+C:\Users\Зах\Desktop\C# Project\4. Practic\Diary\Diary\obj\Debug\net6.0\Diary.pdb
+C:\Users\Зах\Desktop\C# Project\4. Practic\Diary\Diary\obj\Debug\net6.0\Diary.genruntimeconfig.cache
+C:\Users\Зах\Desktop\C# Project\4. Practic\Diary\Diary\obj\Debug\net6.0\ref\Diary.dll
